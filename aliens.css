@@ -1,0 +1,53 @@
+header {
+    height: 80px;
+    background-image: url("https://img.freepik.com/premium-vector/ufo-aliens-invade-farmhouse-at-night-seamless-pattern-gift-wrap-background-wallpaper_609998-489.jpg");
+}
+
+.menu-item {
+    font-size: 20px;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-item:hover {
+    color: black;
+}
+
+h1 {
+    color: rgb(0, 143, 57);
+    text-align: center;
+}
+
+.nout {
+    font-size: 20px;
+    color: white;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Grey_Aliens_Drawing.jpg/250px-Grey_Aliens_Drawing.jpg");
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://ss.metronews.ru/userfiles/materials/190/1900875/858x540_4dd7c133.jpg");
+}
+
+ol {
+    color: blueviolet;
+}
+
+.blook {
+    width: 750px;
+    height: 600px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.centere {
+    display: flex;
+    justify-content: center;
+}
