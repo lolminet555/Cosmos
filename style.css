@@ -1,0 +1,53 @@
+header {
+    height: 80px;
+    background-image: url("https://pibig.info/uploads/posts/2022-12/1669910493_1-pibig-info-p-kosmos-zadnii-fon-krasivo-1.jpg");
+}
+
+.menu-item {
+    font-size: 20px;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-item:hover {
+    color: black;
+}
+
+h1 {
+    color: rgb(0, 161, 161);
+    text-align: center;
+}
+
+.text {
+    font-size: 20px;
+    color: white;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbjAbFflowY3_mBdSgxqaifghE7MML6erBQ&usqp=CAU");
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmG7aKPGh1Pfr51vFikj-rQa21JvjClraB8Q&usqp=CAU);
+}
+
+ol {
+    color: blueviolet;
+}
+
+.blook {
+    width: 750px;
+    height: 600px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
